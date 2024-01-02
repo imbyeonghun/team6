@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+=======
 goodsmell
 seungjoo
+>>>>>>> dc246f421c78ca65f5ad532e2145012c2bf0fa66
